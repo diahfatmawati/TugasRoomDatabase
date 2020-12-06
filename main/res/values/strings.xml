@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NOTE</string>
+    <string name="hint_word">ada tugas lagi yaa . . .</string>
+    <string name="button_save">tambahkan</string>
+    <string name="button_deleteAll">hapus tugas :)</string>
+    <string name="empty_not_saved">data kosong, data tugas tidak tersimpan.</string>
+</resources>
